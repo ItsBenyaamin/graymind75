@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm Benyamin Choukan an Android developer which in love with Rust.
+Hi, I'm Benyamin Eskandari an Android developer which in love with Rust.
 
 <br/>
 
@@ -10,6 +10,25 @@ Hi, I'm Benyamin Choukan an Android developer which in love with Rust.
 
 <br/>
 
+## Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=CLion&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=PostgreSql&logoColor=white&color=2bbc8a)
+
+
+<br/>
+
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graymind75&theme=dracula&show_icons=true)
+![Benyamin Eskandari GitHub stats](https://github-readme-stats.vercel.app/api?username=graymind75&count_private=true&theme=dracula&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graymind75&layout=compact&theme=dracula)
