@@ -6,6 +6,7 @@ Hi, I'm Benyamin Eskandari an Android developer which in love with Rust.
 ## 📫 How to reach me:
 - Email: me@benyaamin.com
 - Website: [benyaamin.com](https://benyaamin.com)
+- Twitter: [@Im_Benyaamin](https://twitter.com/im_benyaamin)
 - Telegram: [@GrayMind75](https://t.me/Graymind75)
 
 <br/>
