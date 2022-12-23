@@ -22,6 +22,10 @@ Don't forgrt to give me a `STAR` on my Open Source Projects😊 :
 
 [Shams](https://github.com/graymind75/shams)
 
+[TUI Password Manager](https://github.com/graymind75/passmng)
+
+[Port Scanner](https://github.com/graymind75/pscan)
+
 <br/>
 
 ## Technologies & Tools
