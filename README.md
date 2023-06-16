@@ -14,7 +14,7 @@ I'm very passionate about writing Open Source projects and learning more about #
 <br/>
 
 ## Open Source Projects
-Don't forgrt to give me a `STAR` on my Open Source Projects😊 :
+Don't forget to give me a `STAR` on my Open Source Projects😊 :
 
 [Apk Parser](https://github.com/graymind75/apk-parser)
 
@@ -39,6 +39,7 @@ Don't forgrt to give me a `STAR` on my Open Source Projects😊 :
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=PostgreSql&logoColor=white&color=2bbc8a)
