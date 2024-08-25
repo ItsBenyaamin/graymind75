@@ -10,23 +10,10 @@ I'm very passionate about writing Open Source projects and learning more about #
 - Website: [benyaamin.com](https://benyaamin.com)
 - Twitter: [@ben_eskandari](https://twitter.com/ben_eskandari)
 - Telegram: [@GrayMind75](https://t.me/Graymind75)
-- Youtube: [Click Me](https://www.youtube.com/@ben_creates) Don't forget to Subscribe :) It really helps me.
+- Youtube: [Click Me](https://www.youtube.com/@ben_creates) Don't forget to Subscribe :) It helps me.
 <br/>
 
-## Open Source Projects
-Don't forget to give me a `STAR` on my Open Source Projects😊 :
-
-[Apk Parser](https://github.com/graymind75/apk-parser)
-
-[Fake Rest](https://github.com/graymind75/fake-rest)
-
-[Shams](https://github.com/graymind75/shams)
-
-[TUI Password Manager](https://github.com/graymind75/passmng)
-
-[Port Scanner](https://github.com/graymind75/pscan)
-
-<br/>
+Don't forget to give me a `STAR` on my Open Source Projects😊 
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
